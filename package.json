@@ -1,0 +1,16 @@
+{
+  "name": "code_with_harry",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+    "start": "set PORT=7200 && nodemon index.js"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "server": "^1.0.38"
+  }
+}
